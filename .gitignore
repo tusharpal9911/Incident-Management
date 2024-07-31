@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+.mvn/
+
+# Gradle
+build/
+.gradle/
+*.gradle
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.jar
+*.war
+*.ear
+
